@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\bin\Debug\net9.0\areatriangulo.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\bin\Debug\net9.0\areatriangulo.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\bin\Debug\net9.0\areatriangulo.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\bin\Debug\net9.0\areatriangulo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\bin\Debug\net9.0\areatriangulo.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\refint\areatriangulo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\areatriangulo.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\areatriangulo\obj\Debug\net9.0\ref\areatriangulo.dll
