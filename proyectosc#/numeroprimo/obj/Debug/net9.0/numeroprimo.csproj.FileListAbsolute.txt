@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\bin\Debug\net9.0\numeroprimo.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\bin\Debug\net9.0\numeroprimo.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\bin\Debug\net9.0\numeroprimo.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\bin\Debug\net9.0\numeroprimo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\bin\Debug\net9.0\numeroprimo.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\refint\numeroprimo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\numeroprimo.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numeroprimo\obj\Debug\net9.0\ref\numeroprimo.dll

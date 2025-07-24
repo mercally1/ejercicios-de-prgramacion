@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\bin\Debug\net9.0\binario.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\bin\Debug\net9.0\binario.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\bin\Debug\net9.0\binario.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\bin\Debug\net9.0\binario.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\bin\Debug\net9.0\binario.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\refint\binario.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\binario.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\binario\obj\Debug\net9.0\ref\binario.dll
