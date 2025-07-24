@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\bin\Debug\net9.0\numberPar.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\bin\Debug\net9.0\numberPar.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\bin\Debug\net9.0\numberPar.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\bin\Debug\net9.0\numberPar.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\bin\Debug\net9.0\numberPar.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\refint\numberPar.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\numberPar.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\numberPar\obj\Debug\net9.0\ref\numberPar.dll
