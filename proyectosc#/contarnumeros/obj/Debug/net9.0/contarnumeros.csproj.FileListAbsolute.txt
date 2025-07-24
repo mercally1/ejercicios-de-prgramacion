@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\bin\Debug\net9.0\contarnumeros.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\bin\Debug\net9.0\contarnumeros.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\bin\Debug\net9.0\contarnumeros.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\bin\Debug\net9.0\contarnumeros.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\bin\Debug\net9.0\contarnumeros.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\refint\contarnumeros.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\contarnumeros.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarnumeros\obj\Debug\net9.0\ref\contarnumeros.dll
