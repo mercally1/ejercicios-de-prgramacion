@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\bin\Debug\net9.0\contarpalabra.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\bin\Debug\net9.0\contarpalabra.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\bin\Debug\net9.0\contarpalabra.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\bin\Debug\net9.0\contarpalabra.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\bin\Debug\net9.0\contarpalabra.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\refint\contarpalabra.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\contarpalabra.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\contarpalabra\obj\Debug\net9.0\ref\contarpalabra.dll
