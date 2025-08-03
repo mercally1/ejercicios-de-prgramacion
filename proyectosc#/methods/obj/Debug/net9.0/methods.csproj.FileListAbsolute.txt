@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\bin\Debug\net9.0\methods.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\bin\Debug\net9.0\methods.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\bin\Debug\net9.0\methods.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\bin\Debug\net9.0\methods.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\bin\Debug\net9.0\methods.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\refint\methods.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\methods.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\methods\obj\Debug\net9.0\ref\methods.dll
