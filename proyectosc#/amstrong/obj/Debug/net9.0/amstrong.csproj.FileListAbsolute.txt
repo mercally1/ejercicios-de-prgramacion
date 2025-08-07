@@ -1,0 +1,14 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\bin\Debug\net9.0\amstrong.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\bin\Debug\net9.0\amstrong.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\bin\Debug\net9.0\amstrong.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\bin\Debug\net9.0\amstrong.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\bin\Debug\net9.0\amstrong.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\refint\amstrong.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\amstrong.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\amstrong\obj\Debug\net9.0\ref\amstrong.dll

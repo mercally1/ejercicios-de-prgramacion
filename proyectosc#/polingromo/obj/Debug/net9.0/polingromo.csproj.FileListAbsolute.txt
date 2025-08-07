@@ -7,7 +7,6 @@ C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\p
 C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.AssemblyInfoInputs.cache
 C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.AssemblyInfo.cs
 C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.csproj.CoreCompileInputs.cache
-C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.sourcelink.json
 C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.dll
 C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\refint\polingromo.dll
 C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.pdb
