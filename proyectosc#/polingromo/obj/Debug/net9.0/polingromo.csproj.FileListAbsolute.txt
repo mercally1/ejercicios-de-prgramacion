@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\bin\Debug\net9.0\polingromo.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\bin\Debug\net9.0\polingromo.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\bin\Debug\net9.0\polingromo.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\bin\Debug\net9.0\polingromo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\bin\Debug\net9.0\polingromo.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.sourcelink.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\refint\polingromo.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\polingromo.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\polingromo\obj\Debug\net9.0\ref\polingromo.dll
