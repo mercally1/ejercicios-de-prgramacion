@@ -9,12 +9,11 @@ class Program
         int temp = numero;
         int digitos = numero.ToString().Length;
 
-
         while (temp > 0)
         {
             int digito = temp % 10;
             suma += (int)Math.Pow(digito, digitos);
-            temp /= 10;
+            numero /= 10;
         }
 
         if (suma == numero)

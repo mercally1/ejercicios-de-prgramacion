@@ -1,18 +1,17 @@
 ﻿
-class Program
-{
-    static void Main()
-    {
-        //Console.WriteLine("Ingrese un numero");
-        //int numero  = int.Parse(Console.ReadLine());
-        for (int i = 1; i <= 100; i ++)
-        {
-            
-            
-        string resultado = (i / 1 == 0) && (i/ i == 0 ) ? "primo" : "No primo";
+using System.Diagnostics;
 
-        Console.WriteLine($"Es numero {i} es un numero {resultado}\n");
-            
-        }
+//comprobar si un numero es natural
+
+int number = int.Parse(Console.ReadLine());
+bool esPrimo = number >= 1 == true;
+
+if (esPrimo % 2 == 0)
+{
+        
     }
-}
+// //for (int i = 1; i <= 100; i++)
+// {
+// }
+         
+        

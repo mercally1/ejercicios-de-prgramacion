@@ -1,0 +1,14 @@
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\bin\Debug\net9.0\fibonacci.exe
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\bin\Debug\net9.0\fibonacci.deps.json
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\bin\Debug\net9.0\fibonacci.runtimeconfig.json
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\bin\Debug\net9.0\fibonacci.dll
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\bin\Debug\net9.0\fibonacci.pdb
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.dll
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\refint\fibonacci.dll
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.pdb
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\fibonacci.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\ejercicios\proyectosc#\fibonacci\obj\Debug\net9.0\ref\fibonacci.dll
