@@ -4,14 +4,36 @@ using System.Diagnostics;
 //comprobar si un numero es natural
 
 int number = int.Parse(Console.ReadLine());
-bool esPrimo = number >= 1 == true;
 
-if (esPrimo % 2 == 0)
+bool isPrime = true;
+if (number <= 1)
 {
-        
+    isPrime = false;
+}
+if (number == 2)
+{
+    isPrime = true;
+}
+else if (number > 2)
+{
+    for (int i = 2; i <= Math.Sqrt(number); i++)
+    {
+        if (number % i == 0)
+        {
+            isPrime = false;
+            break;
+        }
     }
-// //for (int i = 1; i <= 100; i++)
-// {
-// }
+}
+
+if (isPrime)
+{
+    Console.WriteLine("el numero " + number + " es primo");
+}
+else
+{
+    Console.WriteLine("el numero " + number + " no es primo");
+}
+
          
         
