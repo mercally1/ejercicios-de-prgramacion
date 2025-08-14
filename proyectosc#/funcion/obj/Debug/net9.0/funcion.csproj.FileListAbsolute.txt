@@ -1,0 +1,14 @@
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\bin\Debug\net9.0\funcion.exe
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\bin\Debug\net9.0\funcion.deps.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\bin\Debug\net9.0\funcion.runtimeconfig.json
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\bin\Debug\net9.0\funcion.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\bin\Debug\net9.0\funcion.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\refint\funcion.dll
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.pdb
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\funcion.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\Ejercicios\proyectosc#\funcion\obj\Debug\net9.0\ref\funcion.dll
