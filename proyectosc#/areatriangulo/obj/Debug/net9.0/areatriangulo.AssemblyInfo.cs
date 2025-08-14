@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("areatriangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a675acf02de93f1f0d6f4cf8acfa98f3de32f527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("areatriangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("areatriangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
