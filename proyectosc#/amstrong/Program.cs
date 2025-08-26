@@ -8,7 +8,7 @@ class Program
         int suma = 0;
         int temp = numero;
         int digitos = numero.ToString().Length;
-
+       
         while (temp > 0)
         {
             int digito = temp % 10;
@@ -24,5 +24,7 @@ class Program
         {
             Console.WriteLine($"el numero {numero} NO es un numero amstrong");
         }
+      
     }
+    
 }

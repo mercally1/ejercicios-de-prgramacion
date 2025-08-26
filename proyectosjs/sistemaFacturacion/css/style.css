@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1578px;
+    height: 789px;
+    background-color: rgb(238, 229, 230);
+    border: 2px solid #1b1010;
+}
+
+#container-right{
+    text-align: center;
+    background-color: #231f1f;
+    color: aliceblue;
+}
+
+#container-left{ 
+    background-color: blueviolet;
+}
+
+p{
+    text-align: center;
+}
+
+
+
