@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#calculadora{
+    background: #8e080877;
+    height: 300px;
+    width: 250px;
+    border: 1px solid;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.content-box{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5px;
+    max-width: 250px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 5px;
+}
+
+.pantalla{
+    border: 1px solid #000;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #fff;
+    height: 40px;
+    width: 227px;
+}
+
+
